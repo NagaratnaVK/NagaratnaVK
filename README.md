@@ -1,16 +1,43 @@
-## Hi there 👋
 
-<!--
-**NagaratnaVK/NagaratnaVK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Nagaratna Kshirasagar 👋
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Data Analyst with 4+ years of experience in Banking and Financial Services.
+
+🔹 SQL
+
+🔹 Power BI
+
+🔹 Python
+
+🔹 Banking Analytics
+
+🔹 Reporting & Data Validation
+
+Certifications
+
+🏆 Microsoft PL-300 (Power BI Data Analyst)
+
+🏆 Microsoft AZ-900 (Azure Fundamentals)
+
+🏆 Microsoft AI-900 (Azure AI Fundamentals)
+
+Projects
+
+📊 Banking KPI Dashboard (Power BI)
+
+🐍 Bank Customer Churn Analysis (Python)
+
+🗄️ Banking Customer Analytics (SQL)
+
+Education
+
+🎓 M.Tech - BITS Pilani (WASE)
+
+🎓 BCA - KLE's BCA Hubli
+
+ Connect With Me
+
+LinkedIn: www.linkedin.com/in/nagaratna-v-kshirasagar-aaa7581a0
+
